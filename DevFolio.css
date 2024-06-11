@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    width: 100vw;
+    position: sticky;
+    background-color: black;
+    color: white;
+    padding: 18px;
+
+}
+
+.bio {
+    display: flex;
+}
+
+img {
+    height: 160px;
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius: 3px;
+}
+
+#caver {
+    background-color: rgb(243, 238, 238);
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    height: 85%;
+    display: flex;
+    box-shadow: 5px 5px 5px rgb(205, 179, 179), -5px -5px 5px gray;
+}
+
+
+
+
+.intro {
+    margin-top: 50px;
+    margin-left: 100px;
+    line-height: 25px;
+}
+
+#page {
+    width: 50%;
+
+
+}
+
+li {
+    font-size: large;
+    margin-left: 25px;
+}
+
+
+ul {
+    margin-right: 150px;
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+h2 {
+    margin-left: 100px;
+}
+
+#skill {
+    position: relative;
+    left: 30px;
+  
+
+}
+#html { background-color: rgba(77, 77, 243, 0.801);
+    height: 8px;
+    margin: 5px;
+    width: 34vw;
+}
+
+#CSS3 { background-color: rgba(77, 77, 243, 0.801);
+    height: 8px;
+    margin: 5px;
+    width: 34vw;
+}
+
+#PHP { background-color: rgba(77, 77, 243, 0.801);
+    height: 8px;
+    margin: 5px;
+    width: 34vw;
+}
+
+#JavaScript{ background-color: rgba(77, 77, 243, 0.801);
+    height: 8px;
+    margin: 5px;
+    width: 34vw;
+}
+
+
+.para {
+    font-size: 18px;
+}
+
+
+
+#about {
+    width: 50%;
+    height: 83%;
+
+    margin-top: 60px;
+}
+range { color:  rgba(77, 77, 243, 0.801);}
